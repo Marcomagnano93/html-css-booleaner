@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pattern {
+    background-image: url(../img/pattern.png);
+    width: 100%;
+    height: 250px;
+    background-color: rgb(43, 101, 226);
+}
