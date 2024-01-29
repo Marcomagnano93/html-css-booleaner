@@ -4,15 +4,9 @@
     box-sizing: border-box;
 }
 
-header {
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-main, aside {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 25px;
+main, aside{
+    margin: auto;
+    width: 80%;
 }
 
 h1{
@@ -55,6 +49,7 @@ table {
     width: 100%;
     font-weight: 100;
     text-align: left;
+    
 }
 
 .th-large {
