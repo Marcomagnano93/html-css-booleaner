@@ -40,3 +40,22 @@ main {
 .highlight {
     background-color: yellow;
 }
+
+table {
+    width: 100%;
+    font-weight: 100;
+    text-align: left;
+}
+
+.th-large {
+    width: 70%;
+}
+
+.background-blue {
+    background-color: rgba(106, 189, 248, 0.544);
+}
+
+.background-head {
+    background-color: rgba(49, 49, 175, 0.782);
+    color: white;
+}
