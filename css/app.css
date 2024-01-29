@@ -45,9 +45,14 @@ h1{
     background-color: yellow;
 }
 
-.color-light-gray{
+.color-light-gray {
     color: rgba(157, 149, 138, 0.826);
 
+}
+
+
+.color-light-blue {
+    color: rgb(60, 178, 196);
 }
 
 .font-italic {
