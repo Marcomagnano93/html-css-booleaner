@@ -9,7 +9,7 @@ header {
     margin-right: 50px;
 }
 
-main {
+main, aside {
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 25px;
@@ -58,4 +58,22 @@ table {
 .background-head {
     background-color: rgba(49, 49, 175, 0.782);
     color: white;
+}
+
+#lorem-ipsum-dolor{
+    color: white;
+    font-size: 20px;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+#lorem-ipsum-dolor-bis{
+    color: white;
+    font-size: 20px;
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
 }
