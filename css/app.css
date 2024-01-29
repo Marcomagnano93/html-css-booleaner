@@ -75,20 +75,23 @@ table {
     color: white;
 }
 
-#lorem-ipsum-dolor{
+.article-preview{
     color: white;
     font-size: 20px;
-    background-image: url(../img/monitor.jpg);
+    
     height: 200px;
     width: 200px;
     margin-top: 10px;
 }
 
-#lorem-ipsum-dolor-bis{
-    color: white;
-    font-size: 20px;
+#monitor {
+
+    background-image: url(../img/monitor.jpg);
+
+}
+
+#graph {
+ 
     background-image: url(../img/graph.jpg);
-    height: 200px;
-    width: 200px;
-    margin-top: 10px;
+
 }
