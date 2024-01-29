@@ -45,6 +45,15 @@ h1{
     background-color: yellow;
 }
 
+.color-light-gray{
+    color: rgba(157, 149, 138, 0.826);
+
+}
+
+.font-italic {
+    font-style: italic;
+}
+
 table {
     width: 100%;
     font-weight: 100;
