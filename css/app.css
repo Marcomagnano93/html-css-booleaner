@@ -70,16 +70,14 @@ table {
     background-color: rgba(106, 189, 248, 0.544);
 }
 
-.background-head {
+.table-intestation {
     background-color: rgba(49, 49, 175, 0.782);
     color: white;
 }
 
-.article-preview{
+.article-preview {
     color: white;
-    font-size: 20px;
-    
-    height: 200px;
+    font-size: 20px; height: 200px;
     width: 200px;
     margin-top: 10px;
 }
