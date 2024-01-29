@@ -37,11 +37,11 @@ h1{
     font-size: smaller;
 }
 
-.margin-top {
+.margin-top30 {
     margin-top: 30px;
 }
 
-.highlight {
+.highlight-yellow {
     background-color: yellow;
 }
 
@@ -49,10 +49,11 @@ table {
     width: 100%;
     font-weight: 100;
     text-align: left;
+    border-collapse: collapse;
     
 }
 
-.th-large {
+.width70 {
     width: 70%;
 }
 
